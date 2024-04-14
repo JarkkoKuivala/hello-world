@@ -6,4 +6,4 @@
  - 2
  - 3
 
-![Tietokanta](https://github.com/JarkkoKuivala/hello-world/blob/main/Database.png)
+
