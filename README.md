@@ -5,4 +5,4 @@
  - g
  - 2
  - 3
-![Tietokannan taulut]({{}}/Document/Database.png)
+
