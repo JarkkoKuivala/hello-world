@@ -6,4 +6,4 @@
  - 2
  - 3
 
-![Database](https://github.com/jarkkokuivala/hello-world/database.png)
+![Database](https://github.com/JarkkoKuivala/hello-world/Database.png)
