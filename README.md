@@ -6,4 +6,4 @@
  - 2
  - 3
 
-![Kuvan alt-teksti]({{site.baseurl}}//Database.png)
+![Database](https://github.com/JarkkoKuivala/hello-world/Database.png)
