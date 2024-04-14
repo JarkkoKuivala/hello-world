@@ -6,4 +6,4 @@
  - 2
  - 3
 
-![Kuvan alt-teksti]({{site.baseurl}}/database.png)
+![Kuvan alt-teksti]({{site.baseurl}}//Database.png)
